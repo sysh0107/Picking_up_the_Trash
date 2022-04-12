@@ -3,15 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - normal
+  - can
+  - bottle
+  - food
+  - vinlye
+  - battery
+  - light
+  - styrofoam
+  - pet
+  - paper
+  - clothe
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - trash
   - Water
   - UI
-  - 
+  - bin
   - 
   - 
   - 

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6CD515E9-4567-4B18-9440-F546E03D7C06}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/PickingRoad/Throw.cs">
+    <Files>
+      <File FileName="Assets/script/PickingRoad/Throw.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PickingUpTheTrash" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="script" expanded="True">
+                <Node name="PickingRoad" expanded="True">
+                  <Node name="Throw.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="36af153e-681c-4ea2-bcce-c50bd6a6f5fc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
