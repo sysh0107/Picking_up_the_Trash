@@ -1,74 +1,111 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using System.Collections;
+
+//https://pastebin.com/cE6Cb0Pw
 
 public class throwing : MonoBehaviour
 {
-    public GameObject ball;
-    public GameObject mainCamera;
-    private Rigidbody ball_rb;
+	[SerializeField]
+	private float throwSpeed = 35f;
+	private float speed;
+	private float lastMouseX, lastMouseY;
 
-    public float throwDistance = 20f;
-    public float throwForce = 5f;
-    public Vector3 direction;
+	private bool thrown, holding;
 
-    private bool holding = true;
+	private Rigidbody _rigidbody;
+	private Vector3 newPosition;
 
-    private float pressed_pos_x;
-    private float pressed_pos_z;
+	void Start()
+	{
+		_rigidbody = GetComponent<Rigidbody>();
+		Reset();
+	}
 
-    void Start()
+	void Update()
+	{
+		if (holding)
+			OnTouch();
+
+		if (thrown)
+			return;
+
+		if(Input.GetButtonDown("Fire1")){//for pc = if(Input.GetButtonDown(0)){
+			Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition); //for pc = Input.mousePosition
+			RaycastHit hit;
+
+			if (Physics.Raycast(ray, out hit, 100f))
+			{
+				if (hit.transform == transform)
+				{
+					holding = true;
+					transform.SetParent(null);
+				}
+			}
+		}
+
+		if (Input.GetButtonUp("Fire1"))
+		{//for pc = if(Input.GetButtonUp(0)){
+			if (lastMouseY < Input.mousePosition.y)
+			{
+				ThrowBall(Input.mousePosition);
+			}
+		}
+
+		if (Input.GetButton("Fire1"))
+		{ //for pc = if(Input.GetButton(0)){
+			lastMouseX = Input.mousePosition.x;
+			lastMouseY = Input.mousePosition.y;
+		}
+	}
+
+	void Reset()
+	{
+		CancelInvoke();
+		transform.position = Camera.main.ViewportToWorldPoint(new Vector3(0.5f, 0.1f, Camera.main.nearClipPlane * 7.5f));
+		newPosition = transform.position;
+		thrown = holding = false;
+
+		_rigidbody.useGravity = false;
+		_rigidbody.velocity = Vector3.zero;
+		_rigidbody.angularVelocity = Vector3.zero;
+		transform.rotation = Quaternion.Euler(0f, 200f, 0f);
+		transform.SetParent(Camera.main.transform);
+	}
+
+	void OnTouch()
+	{
+		Vector3 mousePos = Input.mousePosition;
+		mousePos.z = Camera.main.nearClipPlane * 7.5f;
+
+		newPosition = Camera.main.ScreenToWorldPoint(mousePos);
+
+		transform.localPosition = Vector3.Lerp(transform.localPosition, newPosition, 50f * Time.deltaTime);
+	}
+
+	void ThrowBall(Vector2 mousePos)
+	{
+		_rigidbody.useGravity = true;
+
+		float differenceY = (mousePos.y - lastMouseY) / Screen.height * 100;
+		speed = throwSpeed * differenceY;
+
+		float x = (mousePos.x / Screen.width) - (lastMouseX / Screen.width);
+		x = Mathf.Abs(mousePos.x - lastMouseX) / Screen.width * 100 * x;
+
+		Vector3 direction = new Vector3(x, 0f, 1f);
+		direction = Camera.main.transform.TransformDirection(direction);
+
+		_rigidbody.AddForce((direction * speed / 2f) + (Vector3.up * speed));
+
+		holding = false;
+		thrown = true;
+
+		Invoke("Reset", 5.0f);
+	}
+
+    private void FixedUpdate()
     {
-        ball_rb = ball.GetComponent<Rigidbody>();
-        ball_rb.useGravity = false;
-       
-    }
 
-    
-    void Update()
-    {
-        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-        RaycastHit hit;
 
-        if (holding)
-        {
-            ball.transform.position = mainCamera.transform.position + mainCamera.transform.forward * throwDistance;
-
-            if (Input.GetMouseButtonDown(0) && Physics.Raycast(ray, out hit, 100))
-            {
-                if(hit.collider.gameObject == ball)
-                {
-                    holding = false;
-                    store_position();
-                    Debug.Log("mouse pressed");
-                }
-                
-            }
-            
-        }
-        if (Input.GetMouseButtonUp(0))
-        {
-            ThrowBall(Input.mousePosition);
-            Debug.Log("mouse up");
-        }
-    }
-
-    private void store_position()
-    {
-        pressed_pos_x = Input.mousePosition.x;
-        pressed_pos_z = Input.mousePosition.y;
-        Debug.Log("pressed_pos_x : " + pressed_pos_x);
-        Debug.Log("pressed_pos_y : " + pressed_pos_z);
-    }
-
-    private void ThrowBall(Vector3 mousePos)
-    {
-        ball_rb.useGravity = true;
-
-        float differencex = Mathf.Clamp(mousePos.x - pressed_pos_x, 0f, 10f);
-        float differencez = Mathf.Clamp(mousePos.z - pressed_pos_z, 0f, 10f);
-        direction = new Vector3(differencex, 0, differencez);
-
-        ball_rb.AddForce(direction * throwForce);
     }
 }

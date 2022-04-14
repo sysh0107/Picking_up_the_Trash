@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{6CD515E9-4567-4B18-9440-F546E03D7C06}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/RecyclingTrash/throwing.cs">
     <Files>
-      <File FileName="Assets/script/RecyclingTrash/throwing.cs" Line="64" Column="45" />
+      <File FileName="Assets/script/RecyclingTrash/throwing.cs" Line="16" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1fb3b90a-162b-4130-90f3-d9541b504676" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d210871-1dfd-46c5-b27e-1c6d37410290" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
