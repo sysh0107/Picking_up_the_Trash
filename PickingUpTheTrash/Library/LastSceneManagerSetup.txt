@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Part_Recycle/Throw.unity
+- path: Assets/SpaceZeta_PlasticTrashBins/Demo Scene/Showcase.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
