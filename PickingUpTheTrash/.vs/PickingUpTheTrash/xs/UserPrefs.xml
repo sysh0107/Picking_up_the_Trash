@@ -1,30 +1,12 @@
 ﻿<Properties StartupConfiguration="{6CD515E9-4567-4B18-9440-F546E03D7C06}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/PickingRoad/Throw.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RecyclingTrash/ThrowMouse.cs">
     <Files>
-      <File FileName="Assets/script/PickingRoad/Throw.cs" Line="21" Column="18" />
-      <File FileName="Assets/script/RecyclingTrash/throwing.cs" />
-      <File FileName="Assets/script/PickingRoad/GPSManager.cs" Line="75" Column="6" />
+      <File FileName="Assets/Scripts/RecyclingTrash/ThrowMouse.cs" Line="9" Column="33" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="PickingUpTheTrash" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="script" expanded="True">
-                <Node name="PickingRoad" expanded="True">
-                  <Node name="Throw.cs" selected="True" />
-                </Node>
-                <Node name="RecyclingTrash" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4fbac2cc-576f-4dc0-9aff-b1f2c109fb6d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c3aff1e4-f52c-4170-90f3-cb31617a12be" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

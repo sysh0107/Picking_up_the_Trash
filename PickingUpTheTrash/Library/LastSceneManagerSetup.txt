@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Pickingroad.unity
+- path: Assets/Scenes/Part_Recycle/Throw.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
