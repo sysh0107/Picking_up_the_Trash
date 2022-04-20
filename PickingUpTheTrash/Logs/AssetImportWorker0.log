@@ -386,3 +386,567 @@ Received Import Request.
   path: Assets/Prefabs/TrashBin
   artifactKey: Guid(a2cdb0259d7024d0f8197f0608625891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/TrashBin using Guid(a2cdb0259d7024d0f8197f0608625891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a93a57bf2f146971e07c9db18df116') in 0.003006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 74.830740 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Scripts
+  artifactKey: Guid(54ee625f418efd04193e7915a1cc3cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Scripts using Guid(54ee625f418efd04193e7915a1cc3cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b010b9f7c670ecb766a367ecd47391') in 0.002529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.105844 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Apple Core Green.prefab
+  artifactKey: Guid(04de276320549a847b966b845005a946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Apple Core Green.prefab using Guid(04de276320549a847b966b845005a946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338e09a240e06870f8d8c1032bf746a4') in 0.048652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Half Eaten Cheeseburger.prefab
+  artifactKey: Guid(20f6fca5559075148b1e6d06957f81ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Half Eaten Cheeseburger.prefab using Guid(20f6fca5559075148b1e6d06957f81ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e99757965131c379816827b05f91e67') in 0.027940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Fish Bone.prefab
+  artifactKey: Guid(2d6b1262a50aace469e5f5bf10e390fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Fish Bone.prefab using Guid(2d6b1262a50aace469e5f5bf10e390fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a029dfc6be6c52b6a0a3f379e8fd4775') in 0.011876 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Chicken Bone.prefab
+  artifactKey: Guid(95ba25c767eeddc46899aa0fd76f63be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Chicken Bone.prefab using Guid(95ba25c767eeddc46899aa0fd76f63be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd61616349f9377fb5ec9922c75a4704') in 0.010633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Fish Bone 2.prefab
+  artifactKey: Guid(9f4eb6324d951e44db05ce09a003bb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Fish Bone 2.prefab using Guid(9f4eb6324d951e44db05ce09a003bb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c71b61beda9dae0e7bc4863849f514f') in 0.010119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Apple Core Red.prefab
+  artifactKey: Guid(0f19a732006400947981c8a94548a823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Food/Apple Core Red.prefab using Guid(0f19a732006400947981c8a94548a823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6903119bad05caec13c1c2db61a2b1') in 0.009514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.836354 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Broken Plate.prefab
+  artifactKey: Guid(68102669ddabfd04288d583c618807c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Broken Plate.prefab using Guid(68102669ddabfd04288d583c618807c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f4ad465263c6d6e6f27f4b4f8b9aae') in 0.014324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Broken Pottery 2.prefab
+  artifactKey: Guid(92d7833af3c71c04e99615a4db4adfeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Broken Pottery 2.prefab using Guid(92d7833af3c71c04e99615a4db4adfeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4ccca291b2c01de1e2a60b269ce60f') in 0.015138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Broken Pottery.prefab
+  artifactKey: Guid(152f887076ab7244295e8dab774c605e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Broken Pottery.prefab using Guid(152f887076ab7244295e8dab774c605e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36122b538310aa9233272d83b7472432') in 0.010504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Wine Glass.prefab
+  artifactKey: Guid(20015f6b666c370449474a2775a04479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Wine Glass.prefab using Guid(20015f6b666c370449474a2775a04479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df445fc2539f7fed68d6629e9d0ed4d') in 0.013141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Mug Wood.prefab
+  artifactKey: Guid(b62255c42ea48f04aa1f23b246142d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Mug Wood.prefab using Guid(b62255c42ea48f04aa1f23b246142d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be50809e77da96db0ef2a269b79c1b99') in 0.015769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Mug White.prefab
+  artifactKey: Guid(f40a62fcb2acbf8409aee9456b5d86c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Mug White.prefab using Guid(f40a62fcb2acbf8409aee9456b5d86c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33643f119fafdf26521debc214dd91b') in 0.010181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Pint Glass.prefab
+  artifactKey: Guid(f0c34ecd5a4753b4d90d4d34e6946b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Pint Glass.prefab using Guid(f0c34ecd5a4753b4d90d4d34e6946b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27a46b34c26b483eacf4fd682696897') in 0.010592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Mug White Broken.prefab
+  artifactKey: Guid(f28785f5d61fb5041ad3d9ba8f5d8e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Porcelin and Pottery/Mug White Broken.prefab using Guid(f28785f5d61fb5041ad3d9ba8f5d8e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0dc70d354c11e33985aad6f3446265a') in 0.010951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.532544 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Blue with Label.prefab
+  artifactKey: Guid(b39bc46f5f5fc5243bb9c1ec0245b63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Blue with Label.prefab using Guid(b39bc46f5f5fc5243bb9c1ec0245b63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3029996ed7aa33962b4dacfb768a0511') in 0.029012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Red with Label.prefab
+  artifactKey: Guid(3af47aa23425e3c44b5be3d082a74f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Red with Label.prefab using Guid(3af47aa23425e3c44b5be3d082a74f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3223d75bdb591219281977878a313874') in 0.020225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Red.prefab
+  artifactKey: Guid(3d2bb18a5bebdb64d8a66dfeaf71d1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Red.prefab using Guid(3d2bb18a5bebdb64d8a66dfeaf71d1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4b749f67a6222c0c81bec4dc1b11ce') in 0.009343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green with Label 1.prefab
+  artifactKey: Guid(8c044803a69471e439f6be56b9f30f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green with Label 1.prefab using Guid(8c044803a69471e439f6be56b9f30f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3907de568aff4fc4fe99d2f0ae9c44') in 0.012617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Green.prefab
+  artifactKey: Guid(9771556f1f5c8c646851f15e0d8d3b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Green.prefab using Guid(9771556f1f5c8c646851f15e0d8d3b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd824e756203aa870b4ae2a43828ddf2d') in 0.009443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green Broke.prefab
+  artifactKey: Guid(64af0ad50f70dbf45b4cb158dbee515a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green Broke.prefab using Guid(64af0ad50f70dbf45b4cb158dbee515a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0d54a21c53c381ee8b5f4281a03d35') in 0.009152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Red with Label.prefab
+  artifactKey: Guid(23aff9c48b65f194ebd7a8e6221879b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Red with Label.prefab using Guid(23aff9c48b65f194ebd7a8e6221879b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f507f0d01abb2cd9263812e12c2ff5') in 0.015318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Vodka Bottle.prefab
+  artifactKey: Guid(52cee41ff0ee4e24288d803c2f29b7a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Vodka Bottle.prefab using Guid(52cee41ff0ee4e24288d803c2f29b7a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2c477f7017d14f02e27b4713fc482c') in 0.009201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Red Broke.prefab
+  artifactKey: Guid(f7a38f23e322d4847b9364710a5bb94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Red Broke.prefab using Guid(f7a38f23e322d4847b9364710a5bb94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b617b0a7c0390b2b4dfac337c8b08142') in 0.008574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Green with Label.prefab
+  artifactKey: Guid(ba3d6d9d39ece864db4d23301290693f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Green with Label.prefab using Guid(ba3d6d9d39ece864db4d23301290693f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8674293f317da4036af51c0937aa60c4') in 0.012149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Vodka Bottle with label.prefab
+  artifactKey: Guid(d43ac3b4de4cbc345a113860f8977fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Vodka Bottle with label.prefab using Guid(d43ac3b4de4cbc345a113860f8977fb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49600fb97e645ef04cee94a1ffdd9a3') in 0.010561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Red.prefab
+  artifactKey: Guid(d2d635fe52f0fa04f87e06e3d24f172d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Beer Bottle Red.prefab using Guid(d2d635fe52f0fa04f87e06e3d24f172d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa2cfb7dcd3980f8021d5b0909f1095') in 0.008404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green Broke 2.prefab
+  artifactKey: Guid(8330d6a315e0fbb47a53be06e566ae6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green Broke 2.prefab using Guid(8330d6a315e0fbb47a53be06e566ae6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a3ddd6a8727f18009f9209d0152b61') in 0.008358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green.prefab
+  artifactKey: Guid(aa4f21526d30160478987ff6145507a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green.prefab using Guid(aa4f21526d30160478987ff6145507a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad963d93fcc65e719b40a1de84463127') in 0.008048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green with Label.prefab
+  artifactKey: Guid(f8a4b5315bc42194f804d87ec1096810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Green with Label.prefab using Guid(f8a4b5315bc42194f804d87ec1096810) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ef8514fe0a976a00a8851ba19bbe62a') in 0.009035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Red Broke 2.prefab
+  artifactKey: Guid(77557de5dd98b0f4c9dc7532951a0960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mess Maker Free/Prefabs/Low Poly/Glass Bottles/Wine Bottle Red Broke 2.prefab using Guid(77557de5dd98b0f4c9dc7532951a0960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e9da1506925dfd2ad28f4638983b0f') in 0.008159 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002956 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-04-20 10:55:07.984 Unity[45959:1140210] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003de53b0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  4.300 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4302ms)
+		BeginReloadAssembly (505ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (82ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (155ms)
+		EndReloadAssembly (3626ms)
+			LoadAssemblies (448ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (516ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (84ms)
+			SetupLoadedEditorAssemblies (2101ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (502ms)
+				ProcessInitializeOnLoadAttributes (1513ms)
+				ProcessInitializeOnLoadMethodAttributes (52ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (65ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.4 MB.
+System memory in use after: 207.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 3.277500 ms (FindLiveObjects: 0.134708 ms CreateObjectMapping: 0.062417 ms MarkObjects: 3.008917 ms  DeleteObjects: 0.070167 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 380.378448 seconds.
+  path: Assets/Scripts/RecyclingTrash/MakeTrashandBins.cs
+  artifactKey: Guid(9504e057b8d724c6f9fb18ad711f6358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RecyclingTrash/MakeTrashandBins.cs using Guid(9504e057b8d724c6f9fb18ad711f6358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f319f2efa2d22914e6656c8432d3c24b') in 0.014933 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-04-20 10:55:22.344 Unity[45959:1140210] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003de7330 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  4.004 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4005ms)
+		BeginReloadAssembly (393ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (49ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (139ms)
+		EndReloadAssembly (3452ms)
+			LoadAssemblies (382ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (510ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (84ms)
+			SetupLoadedEditorAssemblies (2004ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (27ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (485ms)
+				ProcessInitializeOnLoadAttributes (1444ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (52ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.5 MB.
+System memory in use after: 207.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2357.
+Total: 3.140625 ms (FindLiveObjects: 0.122875 ms CreateObjectMapping: 0.079416 ms MarkObjects: 2.882000 ms  DeleteObjects: 0.055375 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002913 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-04-20 10:56:38.380 Unity[45959:1140210] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003dd8bd0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  4.111 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4113ms)
+		BeginReloadAssembly (432ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (56ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (148ms)
+		EndReloadAssembly (3521ms)
+			LoadAssemblies (401ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (515ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (2047ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (479ms)
+				ProcessInitializeOnLoadAttributes (1487ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (56ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1849 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.7 MB.
+System memory in use after: 207.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 4.421833 ms (FindLiveObjects: 0.135459 ms CreateObjectMapping: 0.056833 ms MarkObjects: 4.161167 ms  DeleteObjects: 0.067250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 102.227445 seconds.
+  path: Assets/Scripts/RecyclingTrash/MakeTrash.cs
+  artifactKey: Guid(c34d57a969ae0491ca897e9fc425b77f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RecyclingTrash/MakeTrash.cs using Guid(c34d57a969ae0491ca897e9fc425b77f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde8973aa209207d5fb58593f2eb6cb2') in 0.024238 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002390 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-04-20 10:57:05.109 Unity[45959:1140210] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003dc9a40 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  4.005 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4007ms)
+		BeginReloadAssembly (400ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (45ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (147ms)
+		EndReloadAssembly (3449ms)
+			LoadAssemblies (374ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (507ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (2003ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (475ms)
+				ProcessInitializeOnLoadAttributes (1448ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (56ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1850 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.9 MB.
+System memory in use after: 208.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2363.
+Total: 3.173625 ms (FindLiveObjects: 0.151708 ms CreateObjectMapping: 0.091333 ms MarkObjects: 2.876333 ms  DeleteObjects: 0.053166 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 25.964349 seconds.
+  path: Assets/Scripts/RecyclingTrash/MakeBins.cs
+  artifactKey: Guid(51704a122134e467db9d9a84b1aee21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RecyclingTrash/MakeBins.cs using Guid(51704a122134e467db9d9a84b1aee21b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5403a8b7369763fe14a48f282cb687ac') in 0.012632 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003864 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-04-20 10:57:32.246 Unity[45959:1140210] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003dce760 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  4.012 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4014ms)
+		BeginReloadAssembly (413ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (54ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (151ms)
+		EndReloadAssembly (3443ms)
+			LoadAssemblies (372ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (512ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (84ms)
+			SetupLoadedEditorAssemblies (1992ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (483ms)
+				ProcessInitializeOnLoadAttributes (1433ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (53ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.1 MB.
+System memory in use after: 208.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 3.140875 ms (FindLiveObjects: 0.116459 ms CreateObjectMapping: 0.056291 ms MarkObjects: 2.912000 ms  DeleteObjects: 0.054958 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003575 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+2022-04-20 11:00:06.347 Unity[45959:1140210] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003dc7a30 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Mono: successfully reloaded assembly
+- Completed reload, in  4.029 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4031ms)
+		BeginReloadAssembly (404ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (53ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (148ms)
+		EndReloadAssembly (3468ms)
+			LoadAssemblies (366ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (507ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (2018ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (30ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (477ms)
+				ProcessInitializeOnLoadAttributes (1461ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (55ms)
+Platform modules already initialized, skipping
+Switching build target platform(2) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1851 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.2 MB.
+System memory in use after: 208.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2370.
+Total: 3.149500 ms (FindLiveObjects: 0.114667 ms CreateObjectMapping: 0.055834 ms MarkObjects: 2.916917 ms  DeleteObjects: 0.060875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
